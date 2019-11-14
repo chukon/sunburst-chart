@@ -154,15 +154,11 @@
           "children" : [
             {
               "name" : "Windows Active Directory (PCT-111)",
-              "size" : 30000
+              "size" : 50000
             },
             {
               "name" : "Microsoft Windows Infrastructure (PCT-113)",
-              "size" : "30000"
-            },
-            {
-              "name" : "Advanced Visual Basic Programming (CIS-181)",
-              "size" : 40000
+              "size" : "50000"
             }
           ]
         },
