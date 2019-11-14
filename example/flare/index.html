@@ -60,9 +60,11 @@
   <style>body { margin: 0 }</style>
 </head>
 <body>
-  <h3>RVC Tech Certificates</h3>
+ <center>
+   <h3>RVC Tech Certificates</h3>
   Please visit <br><a href="https://www.myrvc.org/">MyRVC.org</a> > Cerfificates</b> for more details on each certificate<br>
-<div id="chart"></div>
+  </center>
+  <div id="chart"></div>
   <script>
     const color = d3.scaleOrdinal(d3.schemePaired);
     fetch('flare.json').then(res => res.json()).then(data => {
