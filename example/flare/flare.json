@@ -25,11 +25,11 @@
           "name" : "C/C++ Programming",
           "children" : [
             {
-              "name" : "Programming Related to the Internet (WEB-101) ",
+              "name" : "Programming Logic & Design (CIS170)",
               "size" : 25000
             },
             {
-              "name" : "Adv Programming Related to the Internet (WEB-102) ",
+              "name" : "Introduction to C/C++ Programming (CIS-276)",
               "size" : 25000
             },
             {
@@ -68,11 +68,11 @@
           "name" : "Web Development",
           "children" : [
             {
-              "name" : "Programming Rel. to Internet (WEB-101)",
+              "name" : "Programming Rel. Internet (WEB-101)",
               "size" : 25000
             },
             {
-              "name" : "Adv Programming Rel. to Internet (WEB-102) ",
+              "name" : "Adv Programming Rel. Internet (WEB-102) ",
               "size" : 25000
             },
             {
@@ -97,7 +97,11 @@
               "size" : 30000
             },
             {
-              "name" : "Advanced C/C++ Programming (CIS-277)",
+              "name" : "Introduction to Multimedia (WEB-111)",
+              "size" : 40000
+            },
+             {
+              "name" : "Digital Photography (WEB-225)",
               "size" : 40000
             }
           ]
