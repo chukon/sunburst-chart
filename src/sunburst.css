@@ -36,7 +36,7 @@
 .sunburst-tooltip {
   display: none;
   position: absolute;
-  max-width: 1000px;
+  max-width: 100%;
   white-space: nowrap;
   padding: 5px;
   border-radius: 3px;
