@@ -5,7 +5,7 @@
    "name": "certificates",
    "children": [
     {
-     "name": "Mobile App Development",
+     "name": "MobileAppDevelopment",
      "children": [
       {"name": "CIS170ProgrammingLogic", "size": 10000},
       {"name": "CIS280iOSMobileAppDevelopment", "size": 10000},
