@@ -2,15 +2,14 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
+   "name": "Certificates",
    "children": [
     {
-     "name": "cluster",
+     "name": "Mobile App Development",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "CIS170 - Programming Logic", "size": 3938},
+      {"name": "CIS280 - iOS Mobile App Development", "size": 3812},
+      {"name": "CIS245 - Android Development", "size": 6714}
      ]
     },
     {
