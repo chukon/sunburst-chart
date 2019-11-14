@@ -86,23 +86,19 @@
           ]
         },
         {
-          "name" : "PHP Programming (WEB-234)",
+          "name" : "Web Design",
           "children" : [
             {
               "name" : "Programming Related to the Internet (WEB-101) ",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Adv Programming Related to the Internet (WEB-102) ",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Advanced C/C++ Programming (CIS-277)",
-              "size" : 25000
-            },
-            {
-              "name" : "Visual C# Programming (CIS-279) ",
-              "size" : 25000
+              "size" : 40000
             }
           ]
         }
