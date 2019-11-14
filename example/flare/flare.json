@@ -9,15 +9,15 @@
           "children" : [
             {
               "name" : "Programming iOS Apple Mobile Devices (CIS280)",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Programming Logic & Design (CIS-170)",
-              "size" : 25000
+              "size" : 40000
             },
             {
               "name" : "Programming Android for Mobile Devices (CIS-245)",
-              "size" : 25000
+              "size" : 30000
             }
           ]
         },
