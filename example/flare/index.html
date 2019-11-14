@@ -60,15 +60,9 @@
   <style>body { margin: 0 }</style>
 </head>
 <body>
-<div id="chart">
-    <center><h2>RVC Tech Certificates</h2> </center>
-  <center>Please visit <b><a href="https://MyRVC.org">MyRVC.org</a> Cerfificates</b> for more details on each certificate</center>
-<br>
-  </div>
-
+<div id="chart"></div>
   <script>
     const color = d3.scaleOrdinal(d3.schemePaired);
-
     fetch('flare.json').then(res => res.json()).then(data => {
       Sunburst()
         .data(data)
