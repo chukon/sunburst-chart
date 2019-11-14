@@ -9,7 +9,7 @@ import Kapsule from 'kapsule';
 import accessorFn from 'accessor-fn';
 
 const TRANSITION_DURATION = 750;
-const CHAR_PX = 6;
+const CHAR_PX = 20;
 
 export default Kapsule({
 
