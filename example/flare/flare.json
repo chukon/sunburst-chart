@@ -2,7 +2,7 @@
  "name": "flare",
  "children": [
   {
-   "name": "Certificates",
+   "name": "certificates",
    "children": [
     {
      "name": "Mobile App Development",
