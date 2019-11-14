@@ -47,15 +47,15 @@
           "children" : [
             {
               "name" : "Programming Logic & Design (CIS-170) ",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Intro to Visual Basic Programming (CIS-180) ",
-              "size" : "25000"
+              "size" : "40000"
             },
             {
               "name" : "Advanced Visual Basic Programming (CIS-181)",
-              "size" : 25000
+              "size" : 30000
             }
           ]
         }
@@ -133,15 +133,15 @@
           "children" : [
             {
               "name" : "Advanced Routing (PCT-220)",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Advanced Switching (PCT-224) ",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Troubleshooting (PCT-226) ",
-              "size" : 25000
+              "size" : 40000
             }
           ]
         },
@@ -175,15 +175,15 @@
           "children" : [
             {
               "name" : "Windows Active Directory (PCT-111)",
-              "size" : 25000
+              "size" : 30000
             },
             {
               "name" : "Microsoft Windows Infrastructure (PCT-113)",
-              "size" : "25000"
+              "size" : "30000"
             },
             {
               "name" : "Advanced Visual Basic Programming (CIS-181)",
-              "size" : 25000
+              "size" : 40000
             }
           ]
         },
