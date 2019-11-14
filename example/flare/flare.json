@@ -7,9 +7,9 @@
     {
      "name": "Mobile App Development",
      "children": [
-      {"name": "CIS170 Programming Logic", "size": 10000},
-      {"name": "CIS280 iOS Mobile App Development", "size": 10000},
-      {"name": "CIS245 Android Development", "size": 10000}
+      {"name": "CIS170_Programming_Logic", "size": 10000},
+      {"name": "CIS280_iOS_Mobile_App_Development", "size": 10000},
+      {"name": "CIS245_Android_Development", "size": 10000}
      ]
     },
     {
