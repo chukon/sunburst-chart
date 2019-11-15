@@ -9,15 +9,18 @@
           "children" : [
             {
               "name" : "Programming iOS...(CIS280)",
-              "size" : 30000
+              "size" : 30000,
+              "offered" : "Fall Only"
             },
             {
               "name" : "Programming Logic...(CIS-170)",
-              "size" : 40000
+              "size" : 40000,
+              "offered" : "Fall/Spring Only"
             },
             {
               "name" : "Programming Android...(CIS-245)",
-              "size" : 30000
+              "size" : 30000,
+              "offered" : "Spring Only"
             }
           ]
         },
