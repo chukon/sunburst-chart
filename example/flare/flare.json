@@ -8,15 +8,15 @@
           "name" : "Mobile Application Development",
           "children" : [
             {
-              "name" : "Programming iOS Apple Mobile Devices (CIS280)",
+              "name" : "Programming iOS...(CIS280)",
               "size" : 30000
             },
             {
-              "name" : "Programming Logic & Design (CIS-170)",
+              "name" : "Programming Logic...(CIS-170)",
               "size" : 40000
             },
             {
-              "name" : "Programming Android for Mobile Devices (CIS-245)",
+              "name" : "Programming Android...(CIS-245)",
               "size" : 30000
             }
           ]
@@ -25,15 +25,15 @@
           "name" : "C/C++ Programming",
           "children" : [
             {
-              "name" : "Programming Logic & Design (CIS170)",
+              "name" : "Programming Logic...(CIS170)",
               "size" : 25000
             },
             {
-              "name" : "Introduction to C/C++ Programming (CIS-276)",
+              "name" : "Introduction to C/C++...(CIS-276)",
               "size" : 25000
             },
             {
-              "name" : "Advanced C/C++ Programming (CIS-277)",
+              "name" : "Advanced C/C++...(CIS-277)",
               "size" : 25000
             },
             {
@@ -46,15 +46,15 @@
           "name" : "Visual Basic Programming Certificate",
           "children" : [
             {
-              "name" : "Programming Logic & Design (CIS-170) ",
+              "name" : "Programming Logic...(CIS-170) ",
               "size" : 30000
             },
             {
-              "name" : "Intro to Visual Basic Programming (CIS-180) ",
+              "name" : "Intro to Visual Basic...(CIS-180) ",
               "size" : "40000"
             },
             {
-              "name" : "Advanced Visual Basic Programming (CIS-181)",
+              "name" : "Advanced Visual Basic...(CIS-181)",
               "size" : 30000
             }
           ]
@@ -68,19 +68,19 @@
           "name" : "Web Development",
           "children" : [
             {
-              "name" : "Programming Rel. Internet (WEB-101)",
+              "name" : "ProgrammingRel.Internet(WEB-101)",
               "size" : 25000
             },
             {
-              "name" : "Adv Programming Rel. Internet (WEB-102) ",
+              "name" : "Adv ProgrammingRel.Internet(WEB-102) ",
               "size" : 25000
             },
             {
-              "name" : "Database Programming (CIS-254) ",
+              "name" : "DatabaseProgramming(CIS-254) ",
               "size" : 25000
             },
             {
-              "name" : "PHP Programming (WEB-234)",
+              "name" : "PHP Programming(WEB-234)",
               "size" : 25000
             }
           ]
@@ -89,15 +89,15 @@
           "name" : "Web Design",
           "children" : [
             {
-              "name" : "Programming Rel. Internet (WEB-101) ",
+              "name" : "ProgrammingRel.Internet(WEB-101) ",
               "size" : 30000
             },
             {
-              "name" : "Adv Programming Rel. Internet(WEB-102) ",
+              "name" : "AdvProgrammingRel.Internet(WEB-102) ",
               "size" : 30000
             },
             {
-              "name" : "Introduction to Multimedia (WEB-111)",
+              "name" : "Introduction to Multimedia(WEB-111)",
               "size" : 40000
             },
              {
@@ -132,7 +132,7 @@
           "name" : "Cisco Networking",
           "children" : [
             {
-              "name" : "Intro to Computers & Info Systems (CIS-102) ",
+              "name" : "Intro to Computers...(CIS-102) ",
               "size" : 25000
             },
             {
@@ -161,7 +161,7 @@
               "size" : 50000
             },
             {
-              "name" : "Microsoft Windows Infrastructure (PCT-113)",
+              "name" : "Microsoft Windows Infras...(PCT-113)",
               "size" : "50000"
             }
           ]
@@ -170,7 +170,7 @@
           "name" : "Network Technician",
           "children" : [
             {
-              "name" : "Intro to Computers & Info Systems (CIS-102) ",
+              "name" : "Intro to Computers...(CIS-102) ",
               "size" : 25000
             },
             {
