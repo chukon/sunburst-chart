@@ -68,7 +68,7 @@
 <body>
   <div id="chart"></div>
   <script>
-    const color = d3.scaleOrdinal(d3.schemePastel2);
+    const color = d3.scaleOrdinal(d3.schemePastel1);
     fetch('flare.json').then(res => res.json()).then(data => {
       Sunburst()
         .data(data)
