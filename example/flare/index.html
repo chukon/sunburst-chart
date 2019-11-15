@@ -70,7 +70,7 @@
         .size('size')
         .color((d, parent) => color(parent ? parent.data.name : null))
         .showTooltip((d, node) => True)
-        .tooltipContent((d, node))
+        .tooltipContent((d, node) => True)
         (document.getElementById('chart'));
     });
   </script>
