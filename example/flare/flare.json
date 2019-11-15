@@ -46,7 +46,7 @@
           ]
         },
         {
-          "name" : "Visual Basic Programming Certificate",
+          "name" : "Visual Basic Programming",
           "children" : [
             {
               "name" : "Programming Logic...(CIS-170) ",
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "name" : "CISCO Certificates",
+      "name" : "CISCO",
       "children" : [
         {
           "name" : "Cisco Advanced Networking ",
