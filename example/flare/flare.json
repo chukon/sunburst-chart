@@ -2,7 +2,7 @@
   "name" : "RVC Tech Certificates",
   "children" : [
     {
-      "name" : "CIS Certificates",
+      "name" : "CIS",
       "children" : [
         {
           "name" : "Mobile Application Development",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "name" : "Web Certificates",
+      "name" : "WEB",
       "children" : [
         {
           "name" : "Web Development",
